@@ -1,0 +1,46 @@
+{
+  "name": "gsap",
+  "version": "3.12.2",
+  "description": "GSAP + Club Plugins",
+  "homepage": "https://gsap.com",
+  "module": "index.js",
+  "main": "dist/gsap.js",
+  "types": "types/index.d.ts",
+  "sideEffects": false,
+  "keywords": [
+    "GSAP",
+    "GreenSock",
+    "animation",
+    "MotionPathPlugin",
+    "matchMedia",
+    "motion",
+    "motionPath",
+    "ScrollTrigger",
+    "ScrollSmoother",
+    "Observer",
+    "easing",
+    "JavaScript",
+    "PixiPlugin",
+    "CustomEase",
+    "Flip",
+    "SVG",
+    "3D",
+    "2D",
+    "transform",
+    "morph",
+    "morphing",
+    "drawSVG",
+    "tweening"
+  ],
+  "maintainers": [
+    {
+      "name": "Jack Doyle",
+      "email": "jack@greensock.com",
+      "web": "https://gsap.com"
+    }
+  ],
+  "license": "This package should only be used by individuals/companies with an active Club GSAP membership. See https://gsap.com/pricing/. Licensing: https://gsap.com/licensing/",
+  "bugs": {
+    "url": "https://gsap.com/community/"
+  }
+}
